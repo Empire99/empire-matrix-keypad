@@ -1,22 +1,26 @@
 {
-	"name": "empire-matrix-keypad",
-	"version": "1.0.0",
-	"description": "empire matrix keypad interface",
-	"main": "index.js",
-	"scripts": {
-	"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Empire99/empire-matrix-keypad.git"
-    },
-	"author": "Empire <empirenako@yahoo.com>",
-	"license": "ISC",
-	"hardware": {
-		"./README.md": false
-	},
-	"dependencies": {
-		"onoff": "^4.1.3",
-		"events": "^3.0.0"
-	}
+  "name": "empire-matrix-keypad",
+  "version": "1.0.0",
+  "description": "empire matrix keypad interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Empire99/empire-matrix-keypad.git"
+  },
+  "author": "Empire <empirenako@yahoo.com>",
+  "license": "ISC",
+  "hardware": {
+    "./README.md": false
+  },
+  "dependencies": {
+    "onoff": "^4.1.3",
+    "events": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Empire99/empire-matrix-keypad/issues"
+  },
+  "homepage": "https://github.com/Empire99/empire-matrix-keypad#readme"
 }
