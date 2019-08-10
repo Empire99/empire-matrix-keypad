@@ -37,4 +37,5 @@ keypad.on('enteredPassword', function(password) {
 
 process.on('SIGINT', function(){
 	keypad.resetPins();
-});```
+});
+```
