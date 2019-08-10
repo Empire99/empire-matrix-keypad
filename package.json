@@ -1,0 +1,14 @@
+{
+	"name": "empire-matrix-keypad",
+	"version": "1.0.0",
+	"description": "empire matrix keypad interface",
+	"main": "index.js",
+	"scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Empire <empirenako@yahoo.com>",
+	"license": "ISC",
+	"hardware": {
+		"./README.md": false
+	}
+}
